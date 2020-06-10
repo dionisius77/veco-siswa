@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660205853013",
+    "firebase_url": "https://veco-school.firebaseio.com",
+    "project_id": "veco-school",
+    "storage_bucket": "veco-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660205853013:android:cd0856ff2b6d609f03b7dc",
+        "android_client_info": {
+          "package_name": "com.veco_school.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660205853013-i0r4emab9r16stvggpb9gu24gmd0mgqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdpZ1wQu8Rb8_U-hu1jTSaxnVB7JaVhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660205853013-i0r4emab9r16stvggpb9gu24gmd0mgqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
